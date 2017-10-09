@@ -1,3 +1,4 @@
 
 Voila le premier fichier que je créer sans lecon!
 Mais je ne vois pas mon texte sur github...
+Maintenant que j'ai réussi a l'afficher, je modifie grace a GitHub !
